@@ -1,6 +1,6 @@
 # Dotfiles
 
-I made this repository to hold my config files so I don't have to remake them over and over again. If your some random person who stumbled across this... Hi :)
+I made this repository to hold my config files so I don't have to remake them over and over again. If you're some random person who stumbled across this... Hi :)
 
 If you have any suggestions just let me know, and I'll check them out, because I like using cool tools while programming.
 
